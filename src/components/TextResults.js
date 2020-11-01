@@ -7,10 +7,10 @@ function TextResults () {
             <div>
                 <ol>
                     <li>
-                        <p>name</p>
-                        <p>description</p>
-                        <p>website link</p>
-                        <p>other info</p>
+                        <p>name:</p>
+                        <p>description:</p>
+                        <p>website link:</p>
+                        <p>other info:</p>
                     </li>
                 </ol>
                 
